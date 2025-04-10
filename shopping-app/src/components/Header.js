@@ -32,7 +32,7 @@ const Header = () => {
       <div style={{ fontWeight: "bold", fontSize: "1.5rem" }}>🛍️ ShopZone</div>
 
       <nav style={{ display: "flex", gap: "1.5rem" }}>
-        <Link to="/" style={{ textDecoration: "none", color: "#333" }}>
+        <Link to="/home" style={{ textDecoration: "none", color: "#333" }}>
           Home
         </Link>
         <Link to="/cart" style={{ textDecoration: "none", color: "#333" }}>
