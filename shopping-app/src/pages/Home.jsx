@@ -124,9 +124,11 @@ const styles = {
     color: "inherit",
   },
   image: {
+    width: "100%",
     height: "150px",
     objectFit: "contain",
     marginBottom: "1rem",
+    display: "block",
   },
   title: {
     fontSize: "1rem",
